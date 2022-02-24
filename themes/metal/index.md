@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cerulean
+title: metal
 published: true
 ---
 # {{ page.title }}
